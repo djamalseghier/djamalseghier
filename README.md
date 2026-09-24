@@ -14,6 +14,8 @@
 
 I work on **machine learning, intelligent systems, network security and resource-constrained AI**, with an emphasis on reproducible research and practical deployment.
 
+**Djamal Seghier** is a researcher and PhD candidate in Computer Science / Machine Learning at the University of Tiaret, Algeria. His research interests include **Artificial Intelligence, Machine Learning, Data Science, NDN-IoT, network security, trust-aware systems, edge/embedded ML, time-series forecasting, explainable AI, and intelligent networking**.
+
 <a href="https://orcid.org/0009-0000-5268-1133"><img src="https://img.shields.io/badge/ORCID-0009--0000--5268--1133-a6ce39?logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=60245395000"><img src="https://img.shields.io/badge/Scopus-60245395000-E9711C?logo=scopus&logoColor=white" alt="Scopus" /></a>
 <a href="https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar" /></a>
