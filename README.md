@@ -88,7 +88,10 @@ Research on lightweight machine learning for threat detection, trust-aware secur
 
 🔗 [Published article — MDPI Electronics](https://www.mdpi.com/2079-9292/15/19/4392)  
 🔗 [DOI: 10.3390/electronics15194392](https://doi.org/10.3390/electronics15194392)  
-🔗 [Research version — SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6963868)
+🔗 [Research version — SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6963868)  
+🔗 [Reproducibility package v1.1.0 — Zenodo](https://doi.org/10.5281/zenodo.21936420)
+
+> **Note:** The Zenodo DOI above is reserved for the uploaded reproducibility package and should be considered active after the record is published.
 
 ### 2026 — Hybrid Feature Selection for COVID-19 Text Classification
 
