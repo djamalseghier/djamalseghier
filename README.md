@@ -88,6 +88,8 @@ Research combining **feature selection and transformer-based text classification
 
 **Authors:** Mohamed Goismi · Mohamed Debbab · Moustafa Maaskri · Djamal Seghier
 
+**DOI:** [10.5935/jetia.v12i57.3187](https://doi.org/10.5935/jetia.v12i57.3187)
+
 🔗 [Journal issue / article](https://itegam-jetia.org/journal/index.php/jetia/issue/view/69)
 
 ---
