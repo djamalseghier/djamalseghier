@@ -51,26 +51,30 @@ My work focuses on turning real-world data into reliable predictive and intellig
 **Systems:** IoT · NDN · Network Security · Network Data Analysis  
 **Modeling:** Time-series forecasting · Classification · Feature Engineering · Explainable AI
 
-## 📚 Selected Research
+## 📚 Publications & Research
 
-### STAC-ML — A Trust-Aware Security Architecture for Resource-Constrained NDN-IoT Networks with Lightweight ML-Assisted Threat Detection
+### 2026 — STAC-ML
+
+**A Trust-Aware Security Architecture for Resource-Constrained NDN-IoT Networks with Lightweight ML-Assisted Threat Detection**
 
 Research on lightweight machine learning for threat detection, trust-aware security and resource-constrained NDN-IoT environments.
 
-**Authors:** Djamal Seghier and co-authors
+**Authors:** Djamal Seghier and co-authors  
+**Journal:** *Electronics* (MDPI), 2026, 15(19), 4392
 
 🔗 [Published article — MDPI Electronics](https://www.mdpi.com/2079-9292/15/19/4392)  
+🔗 [DOI: 10.3390/electronics15194392](https://doi.org/10.3390/electronics15194392)  
 🔗 [Research version — SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6963868)
 
-### Hybrid Feature Selection for COVID-19 Text Classification
+### 2026 — Hybrid Feature Selection for COVID-19 Text Classification
 
 Research combining feature selection and transformer-based text classification for COVID-19 discourse analysis.
 
 **Authors:** Mohamed Goismi, Mohamed Debbab, Moustafa Maaskri, Djamal Seghier
 
-🔗 [Journal article](https://itegam-jetia.org/journal/index.php/jetia/issue/view/69)
+🔗 [Journal issue / article](https://itegam-jetia.org/journal/index.php/jetia/issue/view/69)
 
-### Mapping the Pandemic's Echo
+### 2026 — Mapping the Pandemic's Echo
 
 A spatio-temporal framework combining sentiment classification and dynamic topic modeling to study the evolution of COVID-19 narratives.
 
@@ -92,13 +96,15 @@ A spatio-temporal framework combining sentiment classification and dynamic topic
 - End-to-end deployment on a **9-node Raspberry Pi testbed**
 - ONNX Runtime for resource-constrained edge inference
 
-## 🎓 Academic Profiles
+## 🌐 Research Identity
 
-- 🟢 **ORCID:** [0009-0000-5268-1133](https://orcid.org/0009-0000-5268-1133)
-- 🟠 **Scopus Author ID:** [60245395000](https://www.scopus.com/authid/detail.uri?authorId=60245395000)
-- 🎓 **Google Scholar:** [SEGHIER Djamal](https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2)
-- 🧪 **ResearchGate:** [Seghier Djamal](https://www.researchgate.net/profile/Seghier-Djamal)
-- 💼 **LinkedIn:** [SEGHIER Djamal](https://www.linkedin.com/in/seghier-djamal-113614407/)
+| Identifier | Profile |
+|---|---|
+| 🟢 ORCID | [0009-0000-5268-1133](https://orcid.org/0009-0000-5268-1133) |
+| 🟠 Scopus Author ID | [60245395000](https://www.scopus.com/authid/detail.uri?authorId=60245395000) |
+| 🎓 Google Scholar | [SEGHIER Djamal](https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2) |
+| 🧪 ResearchGate | [Seghier Djamal](https://www.researchgate.net/profile/Seghier-Djamal) |
+| 💼 LinkedIn | [SEGHIER Djamal](https://www.linkedin.com/in/seghier-djamal-113614407/) |
 
 ## 📈 GitHub
 
