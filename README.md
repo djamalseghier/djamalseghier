@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://orcid.org/0009-0000-5268-1133">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--5268--1133-a6ce39?logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
   <a href="https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar" />
   </a>
@@ -85,9 +88,9 @@ Future projects will include:
 
 ## 🌐 Academic Profiles
 
+- 🟢 **ORCID:** [0009-0000-5268-1133](https://orcid.org/0009-0000-5268-1133)
 - 🎓 **Google Scholar:** [SEGHIER Djamal](https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2)
 - 🧪 **ResearchGate:** [Seghier Djamal](https://www.researchgate.net/profile/Seghier-Djamal)
-- **ORCID:** Add link
 - **Scopus:** Add link
 - **LinkedIn:** Add link
 
