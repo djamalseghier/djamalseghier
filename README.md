@@ -86,12 +86,17 @@ Research on lightweight machine learning for threat detection, trust-aware secur
 **Authors:** Djamal Seghier and co-authors  
 **Journal:** *Electronics* (MDPI), 2026, 15(19), 4392
 
-🔗 [Published article — MDPI Electronics](https://www.mdpi.com/2079-9292/15/19/4392)  
-🔗 [DOI: 10.3390/electronics15194392](https://doi.org/10.3390/electronics15194392)  
-🔗 [Research version — SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6963868)  
-🔗 [Reproducibility package v1.1.0 — Zenodo](https://doi.org/10.5281/zenodo.21936420)
+<p>
+  <a href="https://www.mdpi.com/2079-9292/15/19/4392">Published article — MDPI Electronics</a><br>
+  <a href="https://doi.org/10.3390/electronics15194392">DOI: 10.3390/electronics15194392</a><br>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6963868">Research version — SSRN</a><br>
+  <a href="https://zenodo.org/records/21936420">Reproducibility Package — Zenodo</a>
+</p>
 
-> **Note:** The Zenodo DOI above is reserved for the uploaded reproducibility package and should be considered active after the record is published.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21936420.svg)](https://doi.org/10.5281/zenodo.21936420)
+
+**Zenodo:** *STAC-ML: Reproducibility Package for Trust-Aware Adaptive Caching for Secure NDN-IoT Networks Using Lightweight Machine Learning*  
+**Version:** v1.1.0 · **DOI:** 10.5281/zenodo.21936420
 
 ### 2026 — Hybrid Feature Selection for COVID-19 Text Classification
 
