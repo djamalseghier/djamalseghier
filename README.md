@@ -9,39 +9,63 @@
 </p>
 
 <p align="center">
-  <a href="https://orcid.org/0009-0000-5268-1133">
-    <img src="https://img.shields.io/badge/ORCID-0009--0000--5268--1133-a6ce39?logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60245395000">
-    <img src="https://img.shields.io/badge/Scopus-Author%20ID%2060245395000-E9711C?logo=scopus&logoColor=white" alt="Scopus" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Seghier-Djamal">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-  <a href="https://www.linkedin.com/in/seghier-djamal-113614407/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=djamalseghier&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://orcid.org/0009-0000-5268-1133"><img src="https://img.shields.io/badge/ORCID-0009--0000--5268--1133-a6ce39?logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60245395000"><img src="https://img.shields.io/badge/Scopus-Author%20ID%2060245395000-E9711C?logo=scopus&logoColor=white" alt="Scopus" /></a>
+  <a href="https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar" /></a>
+  <a href="https://www.researchgate.net/profile/Seghier-Djamal"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://www.linkedin.com/in/seghier-djamal-113614407/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+---
 
 ## 👨‍🔬 About Me
 
 I am a **PhD candidate in Machine Learning at the University of Tiaret**, working across **Artificial Intelligence, Machine Learning, Data Science, NDN/IoT, Network Security, and Edge/Embedded ML**.
 
-My work focuses on turning real-world data into reliable predictive and intelligent systems, from problem formulation and feature engineering to model validation and deployment.
+My work focuses on transforming real-world data into reliable predictive and intelligent systems, from problem formulation and feature engineering to model validation and deployment.
 
-## 🔬 Research Interests
+## 🎯 Research Focus
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning and data-driven modeling
-- 📈 Time-series forecasting and predictive modeling
-- 🌐 Named Data Networking (NDN), IoT and Edge Computing
-- 🔐 Network security, intrusion detection and trust-aware systems
-- ⚡ Intelligent engineering and power/electronic systems
-- 📊 Optimization, feature engineering and explainable AI
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Time-series forecasting
+- Classification
+- Feature engineering
+- Explainable AI
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 NDN / IoT / Security
+
+- Named Data Networking
+- IoT & Edge Computing
+- Network security
+- Intrusion detection
+- Trust-aware systems
+- Embedded ML
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Intelligent Engineering
+
+- Predictive modeling
+- Optimization
+- Data-driven engineering
+- Network data analysis
+- Resource-constrained inference
+- Applied AI systems
+
+</td>
+</tr>
+</table>
 
 ## 💻 Technologies & Tools
 
@@ -84,17 +108,25 @@ A spatio-temporal framework combining sentiment classification and dynamic topic
 
 ## 🧪 Research & Applied ML Projects
 
-### Time-Series Forecasting Pipeline
-- Forecasting experiments on **96,000+ time-series windows**
-- Lag features, exponential moving averages (EMA) and rolling statistics
+### 📈 Time-Series Forecasting Pipeline
+- **96,000+ time-series windows**
+- Lag features, EMA and rolling statistics
 - Multi-class prediction using XGBoost
 - Model validation and explainability with SHAP
 
-### Network Intrusion Detection on Embedded Hardware
-- ML-based intrusion detection using packet-level network data
+### 🔐 Network Intrusion Detection on Embedded Hardware
+- Packet-level network data
 - **42-dimensional feature vectors**
 - End-to-end deployment on a **9-node Raspberry Pi testbed**
 - ONNX Runtime for resource-constrained edge inference
+
+## 🎓 Education & Experience
+
+- **PhD Candidate — Computer Science / Machine Learning**, University of Tiaret
+- **MSc — Computer Mathematics / Software Systems Engineering**, University of Tiaret
+- **State Engineer Diploma — Computer Science / Advanced Information Systems**
+- **Specialized Computer Science Instructor**, INSFP Ziane Belkacem, Tiaret
+- Graduate teaching experience in **Machine Learning, Python and C++**
 
 ## 🌐 Research Identity
 
@@ -106,7 +138,7 @@ A spatio-temporal framework combining sentiment classification and dynamic topic
 | 🧪 ResearchGate | [Seghier Djamal](https://www.researchgate.net/profile/Seghier-Djamal) |
 | 💼 LinkedIn | [SEGHIER Djamal](https://www.linkedin.com/in/seghier-djamal-113614407/) |
 
-## 📈 GitHub
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djamalseghier&show_icons=true&hide_border=true" alt="GitHub statistics" />
