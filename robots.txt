@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djamalseghier.github.io/sitemap.xml
