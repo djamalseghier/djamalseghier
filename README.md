@@ -128,6 +128,7 @@ A **spatio-temporal framework** combining sentiment classification and dynamic t
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Delphi-B01C31?logo=delphi&logoColor=white" alt="Delphi" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/XGBoost-EC5A29?logo=xgboost&logoColor=white" alt="XGBoost" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -136,7 +137,10 @@ A **spatio-temporal framework** combining sentiment classification and dynamic t
 <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-4B5563" alt="SHAP" />
 <img src="https://img.shields.io/badge/ONNX%20Runtime-Edge%20ML-005CED" alt="ONNX Runtime" />
 <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Windows%20Server-2016-0078D4?logo=windows&logoColor=white" alt="Windows Server" />
 </p>
+
+**Software engineering:** UML · Merise · Relational database design · Software development & maintenance
 
 ---
 
@@ -146,13 +150,32 @@ A **spatio-temporal framework** combining sentiment classification and dynamic t
 |---|---|
 | **PhD Candidate — Computer Science / Machine Learning** | University of Tiaret |
 | **MSc — Computer Mathematics / Software Systems Engineering** | University of Tiaret |
-| **State Engineer Diploma — Computer Science / Advanced Information Systems** | — |
+| **State Engineer Diploma — Computer Science / Advanced Information Systems** | University of Tiaret |
+| **Cisco CCNA Exploration — Level V** | Cisco |
 
-### 👨‍🏫 Teaching & Professional Experience
+---
 
-- **Specialized Computer Science Instructor** — INSFP Ziane Belkacem, Tiaret
-- Graduate teaching experience in **Machine Learning, Python and C++**
-- Professional experience in computer science, systems and applied IT
+## 👨‍🏫 Professional Experience
+
+- **Specialized Computer Science Instructor** — INSFP Ziane Belkacem, Tiaret · **2019–Present**
+- **Specialized Computer Science Instructor** — CFPA Ben Yahia Bakhta · **2010–2014**
+- **State Engineer in Computer Science** — Local Administration · **2009–2010**
+- **IT Contractor** — Computing Center, University Ibn Khaldoun · **2007–2009**
+
+### 💻 Professional capabilities
+
+- Software development, maintenance, correction and platform support
+- Application design and development
+- Computer systems and database-related work
+- Teaching and professional training in computer science
+
+---
+
+## 🌍 Languages
+
+- **Arabic** — Native
+- **French** — Professional
+- **English** — Professional
 
 ---
 
