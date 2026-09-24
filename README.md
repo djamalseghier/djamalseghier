@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Djamal Seghier
 
-🎓 **Researcher | Artificial Intelligence & Machine Learning | Electronics**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/djamalseghier/djamalseghier/main/assets/profile.jpg" alt="Djamal Seghier" width="180" />
+</p>
+
+<p align="center">
+  <strong>Researcher | Artificial Intelligence & Machine Learning | Electronics</strong>
+</p>
 
 I am a researcher interested in the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, Electronics, and Power Electronics**, with a focus on data-driven methods for engineering and scientific applications.
 
@@ -21,7 +27,7 @@ I am a researcher interested in the intersection of **Artificial Intelligence, M
 
 ## 📚 Research & Publications
 
-This profile will be progressively updated with selected research papers, datasets, software, projects, and other scientific contributions.
+Selected research papers, datasets, software, and scientific contributions will be progressively added to this profile.
 
 ## 🚀 Featured Work
 
@@ -29,8 +35,8 @@ This profile will be progressively updated with selected research papers, datase
 
 ## 🌐 Academic Profiles
 
+- 🎓 **Google Scholar:** [SEGHIER Djamal](https://scholar.google.com/citations?user=_cDy9VYAAAAJ&hl=fr&authuser=2)
 - **ORCID:** Add link
-- **Google Scholar:** Add link
 - **Scopus:** Add link
 - **ResearchGate:** Add link
 - **LinkedIn:** Add link
